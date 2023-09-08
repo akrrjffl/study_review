@@ -13,5 +13,6 @@
 <body>
     <h2>ㅎㅇ</h2>
     <a href="/save">회원가입</a>
+    <a href="/members">회원목록</a>
 </body>
 </html>
